@@ -1,0 +1,13 @@
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\bin\Debug\Exercicio01.Uso_If_Else.exe.config
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\bin\Debug\Exercicio01.Uso_If_Else.exe
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\bin\Debug\Exercicio01.Uso_If_Else.pdb
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\obj\Debug\Exercicio01.Uso_If_Else.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\obj\Debug\Exercicio01.Uso_If_Else.exe
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\obj\Debug\Exercicio01.Uso_If_Else.pdb
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\bin\Debug\Exercicio01.Uso_If_Else.exe.config
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\bin\Debug\Exercicio01.Uso_If_Else.exe
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\bin\Debug\Exercicio01.Uso_If_Else.pdb
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\obj\Debug\Exercicio01.Uso_If_Else.csproj.AssemblyReference.cache
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\obj\Debug\Exercicio01.Uso_If_Else.csproj.CoreCompileInputs.cache
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\obj\Debug\Exercicio01.Uso_If_Else.exe
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio01.Uso_If_Else\obj\Debug\Exercicio01.Uso_If_Else.pdb

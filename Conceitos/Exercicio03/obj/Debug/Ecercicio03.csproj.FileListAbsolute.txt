@@ -1,0 +1,6 @@
+C:\Projetos\CSHARP\01_Conceitos\Ecercicio03\bin\Debug\Ecercicio03.exe.config
+C:\Projetos\CSHARP\01_Conceitos\Ecercicio03\bin\Debug\Ecercicio03.exe
+C:\Projetos\CSHARP\01_Conceitos\Ecercicio03\bin\Debug\Ecercicio03.pdb
+C:\Projetos\CSHARP\01_Conceitos\Ecercicio03\obj\Debug\Ecercicio03.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\01_Conceitos\Ecercicio03\obj\Debug\Ecercicio03.exe
+C:\Projetos\CSHARP\01_Conceitos\Ecercicio03\obj\Debug\Ecercicio03.pdb

@@ -1,0 +1,7 @@
+C:\Projetos\CSHARP\01_Conceitos\Projeto06\bin\Debug\Projeto06.exe.config
+C:\Projetos\CSHARP\01_Conceitos\Projeto06\bin\Debug\Projeto06.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto06\bin\Debug\Projeto06.pdb
+C:\Projetos\CSHARP\01_Conceitos\Projeto06\obj\Debug\Exercicio06.csproj.AssemblyReference.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto06\obj\Debug\Exercicio06.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto06\obj\Debug\Projeto06.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto06\obj\Debug\Projeto06.pdb

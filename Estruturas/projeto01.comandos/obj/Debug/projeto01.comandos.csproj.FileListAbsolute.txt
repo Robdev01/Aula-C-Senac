@@ -1,0 +1,7 @@
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\projeto01.comandos\bin\Debug\projeto01.comandos.exe.config
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\projeto01.comandos\bin\Debug\projeto01.comandos.exe
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\projeto01.comandos\bin\Debug\projeto01.comandos.pdb
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\projeto01.comandos\obj\Debug\projeto01.comandos.csproj.AssemblyReference.cache
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\projeto01.comandos\obj\Debug\projeto01.comandos.csproj.CoreCompileInputs.cache
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\projeto01.comandos\obj\Debug\projeto01.comandos.exe
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\projeto01.comandos\obj\Debug\projeto01.comandos.pdb

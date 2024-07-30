@@ -1,0 +1,14 @@
+C:\Projetos\CSHARP\01_Conceitos\Projeto07.Coalescencia1\bin\Debug\Projeto07.Coalescencia1.exe.config
+C:\Projetos\CSHARP\01_Conceitos\Projeto07.Coalescencia1\bin\Debug\Projeto07.Coalescencia1.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto07.Coalescencia1\bin\Debug\Projeto07.Coalescencia1.pdb
+C:\Projetos\CSHARP\01_Conceitos\Projeto07.Coalescencia1\obj\Debug\Projeto07.Coalescencia1.csproj.AssemblyReference.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto07.Coalescencia1\obj\Debug\Projeto07.Coalescencia1.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto07.Coalescencia1\obj\Debug\Projeto07.Coalescencia1.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto07.Coalescencia1\obj\Debug\Projeto07.Coalescencia1.pdb
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto07.Coalescencia1\bin\Debug\Projeto07.Coalescencia1.exe.config
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto07.Coalescencia1\bin\Debug\Projeto07.Coalescencia1.exe
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto07.Coalescencia1\bin\Debug\Projeto07.Coalescencia1.pdb
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto07.Coalescencia1\obj\Debug\Projeto07.Coalescencia1.csproj.AssemblyReference.cache
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto07.Coalescencia1\obj\Debug\Projeto07.Coalescencia1.csproj.CoreCompileInputs.cache
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto07.Coalescencia1\obj\Debug\Projeto07.Coalescencia1.exe
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto07.Coalescencia1\obj\Debug\Projeto07.Coalescencia1.pdb

@@ -1,0 +1,14 @@
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\obj\Debug\Exercicio03.Uso_switch.csproj.AssemblyReference.cache
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\obj\Debug\Exercicio03.Uso_switch.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\bin\Debug\Exercicio03.Uso_switch.exe.config
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\bin\Debug\Exercicio03.Uso_switch.exe
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\bin\Debug\Exercicio03.Uso_switch.pdb
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\obj\Debug\Exercicio03.Uso_switch.exe
+C:\Projetos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\obj\Debug\Exercicio03.Uso_switch.pdb
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\bin\Debug\Exercicio03.Uso_switch.exe.config
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\bin\Debug\Exercicio03.Uso_switch.exe
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\bin\Debug\Exercicio03.Uso_switch.pdb
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\obj\Debug\Exercicio03.Uso_switch.csproj.AssemblyReference.cache
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\obj\Debug\Exercicio03.Uso_switch.csproj.CoreCompileInputs.cache
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\obj\Debug\Exercicio03.Uso_switch.exe
+C:\Users\robson.csantos8\source\repos\CSHARP\02_EstrturasControle\Exercicio03.Uso_switch\obj\Debug\Exercicio03.Uso_switch.pdb

@@ -1,0 +1,6 @@
+C:\Projetos\CSHARP\01_Conceitos\Projeto04.DadosEntrada\bin\Debug\Projeto04.DadosEntrada.exe.config
+C:\Projetos\CSHARP\01_Conceitos\Projeto04.DadosEntrada\bin\Debug\Projeto04.DadosEntrada.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto04.DadosEntrada\bin\Debug\Projeto04.DadosEntrada.pdb
+C:\Projetos\CSHARP\01_Conceitos\Projeto04.DadosEntrada\obj\Debug\Projeto04.DadosEntrada.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto04.DadosEntrada\obj\Debug\Projeto04.DadosEntrada.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto04.DadosEntrada\obj\Debug\Projeto04.DadosEntrada.pdb

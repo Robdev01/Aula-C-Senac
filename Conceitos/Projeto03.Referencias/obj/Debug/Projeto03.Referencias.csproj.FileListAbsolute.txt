@@ -1,0 +1,7 @@
+C:\Projetos\CSHARP\01_Conceitos\Projeto03.Referencias\bin\Debug\Projeto03.Referencias.exe.config
+C:\Projetos\CSHARP\01_Conceitos\Projeto03.Referencias\bin\Debug\Projeto03.Referencias.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto03.Referencias\bin\Debug\Projeto03.Referencias.pdb
+C:\Projetos\CSHARP\01_Conceitos\Projeto03.Referencias\obj\Debug\Projeto03.Referencias.csproj.AssemblyReference.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto03.Referencias\obj\Debug\Projeto03.Referencias.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto03.Referencias\obj\Debug\Projeto03.Referencias.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto03.Referencias\obj\Debug\Projeto03.Referencias.pdb

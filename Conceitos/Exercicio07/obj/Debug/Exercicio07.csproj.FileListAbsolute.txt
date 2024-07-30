@@ -1,0 +1,7 @@
+C:\Projetos\CSHARP\01_Conceitos\Exercicio07\obj\Debug\Exercicio07.csproj.AssemblyReference.cache
+C:\Projetos\CSHARP\01_Conceitos\Exercicio07\obj\Debug\Exercicio07.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\01_Conceitos\Exercicio07\bin\Debug\Exercicio07.exe.config
+C:\Projetos\CSHARP\01_Conceitos\Exercicio07\bin\Debug\Exercicio07.exe
+C:\Projetos\CSHARP\01_Conceitos\Exercicio07\bin\Debug\Exercicio07.pdb
+C:\Projetos\CSHARP\01_Conceitos\Exercicio07\obj\Debug\Exercicio07.exe
+C:\Projetos\CSHARP\01_Conceitos\Exercicio07\obj\Debug\Exercicio07.pdb

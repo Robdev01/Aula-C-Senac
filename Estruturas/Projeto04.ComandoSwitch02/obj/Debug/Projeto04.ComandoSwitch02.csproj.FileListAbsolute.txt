@@ -1,0 +1,7 @@
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Projeto04.ComandoSwitch02\bin\Debug\Projeto04.ComandoSwitch02.exe.config
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Projeto04.ComandoSwitch02\bin\Debug\Projeto04.ComandoSwitch02.exe
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Projeto04.ComandoSwitch02\bin\Debug\Projeto04.ComandoSwitch02.pdb
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Projeto04.ComandoSwitch02\obj\Debug\Projeto04.ComandoSwitch02.csproj.AssemblyReference.cache
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Projeto04.ComandoSwitch02\obj\Debug\Projeto04.ComandoSwitch02.csproj.CoreCompileInputs.cache
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Projeto04.ComandoSwitch02\obj\Debug\Projeto04.ComandoSwitch02.exe
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Projeto04.ComandoSwitch02\obj\Debug\Projeto04.ComandoSwitch02.pdb

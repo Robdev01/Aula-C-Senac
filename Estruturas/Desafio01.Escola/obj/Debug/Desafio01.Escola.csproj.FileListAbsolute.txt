@@ -1,0 +1,7 @@
+C:\Projetos\CSHARP\02_EstrturasControle\Desafio01.Escola\obj\Debug\Desafio01.Escola.csproj.AssemblyReference.cache
+C:\Projetos\CSHARP\02_EstrturasControle\Desafio01.Escola\obj\Debug\Desafio01.Escola.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\02_EstrturasControle\Desafio01.Escola\bin\Debug\Desafio01.Escola.exe.config
+C:\Projetos\CSHARP\02_EstrturasControle\Desafio01.Escola\bin\Debug\Desafio01.Escola.exe
+C:\Projetos\CSHARP\02_EstrturasControle\Desafio01.Escola\bin\Debug\Desafio01.Escola.pdb
+C:\Projetos\CSHARP\02_EstrturasControle\Desafio01.Escola\obj\Debug\Desafio01.Escola.exe
+C:\Projetos\CSHARP\02_EstrturasControle\Desafio01.Escola\obj\Debug\Desafio01.Escola.pdb

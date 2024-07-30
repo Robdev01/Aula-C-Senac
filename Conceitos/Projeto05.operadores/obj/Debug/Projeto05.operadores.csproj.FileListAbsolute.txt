@@ -1,0 +1,7 @@
+C:\Projetos\CSHARP\01_Conceitos\Projeto05.operadores\bin\Debug\Projeto05.operadores.exe.config
+C:\Projetos\CSHARP\01_Conceitos\Projeto05.operadores\bin\Debug\Projeto05.operadores.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto05.operadores\bin\Debug\Projeto05.operadores.pdb
+C:\Projetos\CSHARP\01_Conceitos\Projeto05.operadores\obj\Debug\Projeto05.operadores.csproj.AssemblyReference.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto05.operadores\obj\Debug\Projeto05.operadores.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto05.operadores\obj\Debug\Projeto05.operadores.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto05.operadores\obj\Debug\Projeto05.operadores.pdb

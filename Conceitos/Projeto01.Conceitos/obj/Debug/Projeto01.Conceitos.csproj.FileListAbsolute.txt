@@ -1,0 +1,14 @@
+C:\Projetos\CSHARP\01_Conceitos\Projeto01.Conceitos\bin\Debug\Projeto01.Conceitos.exe.config
+C:\Projetos\CSHARP\01_Conceitos\Projeto01.Conceitos\bin\Debug\Projeto01.Conceitos.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto01.Conceitos\bin\Debug\Projeto01.Conceitos.pdb
+C:\Projetos\CSHARP\01_Conceitos\Projeto01.Conceitos\obj\Debug\Projeto01.Conceitos.csproj.AssemblyReference.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto01.Conceitos\obj\Debug\Projeto01.Conceitos.csproj.CoreCompileInputs.cache
+C:\Projetos\CSHARP\01_Conceitos\Projeto01.Conceitos\obj\Debug\Projeto01.Conceitos.exe
+C:\Projetos\CSHARP\01_Conceitos\Projeto01.Conceitos\obj\Debug\Projeto01.Conceitos.pdb
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto01.Conceitos\bin\Debug\Projeto01.Conceitos.exe.config
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto01.Conceitos\bin\Debug\Projeto01.Conceitos.exe
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto01.Conceitos\bin\Debug\Projeto01.Conceitos.pdb
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto01.Conceitos\obj\Debug\Projeto01.Conceitos.csproj.AssemblyReference.cache
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto01.Conceitos\obj\Debug\Projeto01.Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto01.Conceitos\obj\Debug\Projeto01.Conceitos.exe
+C:\Users\Robson\.ssh\Aulas_C---Senac\Projeto01.Conceitos\obj\Debug\Projeto01.Conceitos.pdb

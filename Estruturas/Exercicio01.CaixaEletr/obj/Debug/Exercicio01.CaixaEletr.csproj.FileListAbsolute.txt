@@ -1,0 +1,6 @@
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Exercicio01.CaixaEletr\bin\Debug\Exercicio01.CaixaEletr.exe.config
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Exercicio01.CaixaEletr\bin\Debug\Exercicio01.CaixaEletr.exe
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Exercicio01.CaixaEletr\bin\Debug\Exercicio01.CaixaEletr.pdb
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Exercicio01.CaixaEletr\obj\Debug\Exercicio01.CaixaEletr.csproj.CoreCompileInputs.cache
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Exercicio01.CaixaEletr\obj\Debug\Exercicio01.CaixaEletr.exe
+C:\Users\robson.csantos8\source\repos\02_estrututa_comandos\Exercicio01.CaixaEletr\obj\Debug\Exercicio01.CaixaEletr.pdb
