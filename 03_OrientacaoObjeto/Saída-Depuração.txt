@@ -1,0 +1,4 @@
+﻿"Projeto01.ClassesObjetos.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto01.ClassesObjetos.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\Users\robson.csantos8\source\repos\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\bin\Debug\Projeto01.ClassesObjetos.exe". Símbolos carregados.
+O programa "[15384] Projeto01.ClassesObjetos.exe: Rastreamento de Programa" foi fechado com o código 0 (0x0).
+O programa "[15384] Projeto01.ClassesObjetos.exe" foi fechado com o código -1073741510 (0xc000013a).

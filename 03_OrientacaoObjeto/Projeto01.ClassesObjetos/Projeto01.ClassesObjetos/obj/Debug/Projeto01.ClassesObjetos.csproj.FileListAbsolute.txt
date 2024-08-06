@@ -1,0 +1,14 @@
+C:\Users\robson.csantos8\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\bin\Debug\Projeto01.ClassesObjetos.exe.config
+C:\Users\robson.csantos8\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\bin\Debug\Projeto01.ClassesObjetos.exe
+C:\Users\robson.csantos8\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\bin\Debug\Projeto01.ClassesObjetos.pdb
+C:\Users\robson.csantos8\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\obj\Debug\Projeto01.ClassesObjetos.csproj.AssemblyReference.cache
+C:\Users\robson.csantos8\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\obj\Debug\Projeto01.ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\robson.csantos8\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\obj\Debug\Projeto01.ClassesObjetos.exe
+C:\Users\robson.csantos8\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\obj\Debug\Projeto01.ClassesObjetos.pdb
+C:\Users\robson.csantos8\source\repos\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\bin\Debug\Projeto01.ClassesObjetos.exe.config
+C:\Users\robson.csantos8\source\repos\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\bin\Debug\Projeto01.ClassesObjetos.exe
+C:\Users\robson.csantos8\source\repos\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\bin\Debug\Projeto01.ClassesObjetos.pdb
+C:\Users\robson.csantos8\source\repos\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\obj\Debug\Projeto01.ClassesObjetos.csproj.AssemblyReference.cache
+C:\Users\robson.csantos8\source\repos\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\obj\Debug\Projeto01.ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\robson.csantos8\source\repos\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\obj\Debug\Projeto01.ClassesObjetos.exe
+C:\Users\robson.csantos8\source\repos\CSHARP\03_OrientacaoObjeto\Projeto01.ClassesObjetos\Projeto01.ClassesObjetos\obj\Debug\Projeto01.ClassesObjetos.pdb
